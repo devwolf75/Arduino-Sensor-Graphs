@@ -1,0 +1,14 @@
+c:\users\msantoyo\documents\visual studio 2013\Projects\Analog Read 2\Analog Read 2\bin\Debug\Analog Read 2.exe.config
+c:\users\msantoyo\documents\visual studio 2013\Projects\Analog Read 2\Analog Read 2\obj\Debug\Analog_Read_2.Resources.resources
+c:\users\msantoyo\documents\visual studio 2013\Projects\Analog Read 2\Analog Read 2\obj\Debug\Analog Read 2.vbproj.GenerateResource.Cache
+c:\users\msantoyo\documents\visual studio 2013\Projects\Analog Read 2\Analog Read 2\obj\Debug\Analog_Read_2.TestClass.resources
+c:\users\msantoyo\documents\visual studio 2013\Projects\Analog Read 2\Analog Read 2\bin\Debug\Analog Read 2.exe
+c:\users\msantoyo\documents\visual studio 2013\Projects\Analog Read 2\Analog Read 2\bin\Debug\Analog Read 2.pdb
+c:\users\msantoyo\documents\visual studio 2013\Projects\Analog Read 2\Analog Read 2\bin\Debug\Analog Read 2.xml
+c:\users\msantoyo\documents\visual studio 2013\Projects\Analog Read 2\Analog Read 2\obj\Debug\Analog Read 2.exe
+c:\users\msantoyo\documents\visual studio 2013\Projects\Analog Read 2\Analog Read 2\obj\Debug\Analog Read 2.xml
+c:\users\msantoyo\documents\visual studio 2013\Projects\Analog Read 2\Analog Read 2\obj\Debug\Analog Read 2.pdb
+G:\MAU MOD\Analog Read 2\Analog Read 2\bin\Debug\Analog Read 2.exe.config
+G:\MAU MOD\Analog Read 2\Analog Read 2\obj\Debug\Analog Read 2.exe
+G:\MAU MOD\Analog Read 2\Analog Read 2\obj\Debug\Analog Read 2.xml
+G:\MAU MOD\Analog Read 2\Analog Read 2\obj\Debug\Analog Read 2.pdb

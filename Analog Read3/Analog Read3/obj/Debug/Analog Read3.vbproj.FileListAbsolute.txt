@@ -1,0 +1,4 @@
+c:\users\msantoyo\documents\visual studio 2013\Projects\Analog Read3\Analog Read3\bin\Debug\Analog Read3.exe.config
+c:\users\msantoyo\documents\visual studio 2013\Projects\Analog Read3\Analog Read3\obj\Debug\Analog_Read3.Form1.resources
+c:\users\msantoyo\documents\visual studio 2013\Projects\Analog Read3\Analog Read3\obj\Debug\Analog_Read3.Resources.resources
+c:\users\msantoyo\documents\visual studio 2013\Projects\Analog Read3\Analog Read3\obj\Debug\Analog Read3.vbproj.GenerateResource.Cache

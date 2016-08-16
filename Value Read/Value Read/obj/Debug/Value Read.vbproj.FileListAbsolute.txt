@@ -1,0 +1,10 @@
+c:\users\msantoyo\documents\visual studio 2013\Projects\Value Read\Value Read\bin\Debug\Value Read.exe.config
+c:\users\msantoyo\documents\visual studio 2013\Projects\Value Read\Value Read\obj\Debug\Value_Read.Form1.resources
+c:\users\msantoyo\documents\visual studio 2013\Projects\Value Read\Value Read\obj\Debug\Value_Read.Resources.resources
+c:\users\msantoyo\documents\visual studio 2013\Projects\Value Read\Value Read\obj\Debug\Value Read.vbproj.GenerateResource.Cache
+c:\users\msantoyo\documents\visual studio 2013\Projects\Value Read\Value Read\bin\Debug\Value Read.exe
+c:\users\msantoyo\documents\visual studio 2013\Projects\Value Read\Value Read\bin\Debug\Value Read.pdb
+c:\users\msantoyo\documents\visual studio 2013\Projects\Value Read\Value Read\bin\Debug\Value Read.xml
+c:\users\msantoyo\documents\visual studio 2013\Projects\Value Read\Value Read\obj\Debug\Value Read.exe
+c:\users\msantoyo\documents\visual studio 2013\Projects\Value Read\Value Read\obj\Debug\Value Read.xml
+c:\users\msantoyo\documents\visual studio 2013\Projects\Value Read\Value Read\obj\Debug\Value Read.pdb
